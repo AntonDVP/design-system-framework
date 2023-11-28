@@ -1,1 +1,1 @@
-# ds-framework
+The Design System Framework by UXVision.pro is a set of standards, guidelines, principles, patterns/templates, and tools. Design teams can work faster and more effectively with established rules, guidelines, and tools.
