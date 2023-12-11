@@ -1,5 +1,7 @@
 The Design System Framework by UXVision.pro is a set of standards, guidelines, principles, patterns/templates, and tools. Design teams can work faster and more effectively with established rules, guidelines, and tools.
 
+This project is well underway, with about 60% of the work already completed. Please note that all the information provided is for your reference only and is intended to keep you informed about the progress.
+
 At the moment, the project consists of two main modules:
 
 #1. An intuitive wizard-based guide to working with the design systems.
